@@ -2,13 +2,17 @@
 
 > **An AI-powered educational platform designed to turn learning into an interactive, personalized, measurable experience.**
 
-![Primer AI Educational Banner](https://placehold.co/1600x500/0b1020/ffffff?text=Primer+AI+Educational)
-
 [![AI Education](https://img.shields.io/badge/AI-Education-6C63FF)](#)
 [![Personalized Learning](https://img.shields.io/badge/Learning-Personalized-00C2FF)](#)
 [![Architecture](https://img.shields.io/badge/Architecture-Modular-7CFF6B)](#)
 [![Privacy](https://img.shields.io/badge/Privacy-First-FFB84D)](#)
 [![Documentation](https://img.shields.io/badge/Docs-Extensive-FFFFFF)](#)
+
+![](https://github.com/lucylow/Primer-AI-Educational-Coppard-Ave/blob/master/213.png?raw=true)
+![](https://github.com/lucylow/Primer-AI-Educational-Coppard-Ave/blob/master/432.png?raw=true)
+![](https://github.com/lucylow/Primer-AI-Educational-Coppard-Ave/blob/master/876.png?raw=true)
+![](https://github.com/lucylow/Primer-AI-Educational-Coppard-Ave/blob/master/8768.png?raw=true)
+
 
 ---
 
